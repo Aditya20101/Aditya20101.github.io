@@ -7,7 +7,7 @@
 - Styled using [Tailwind CSS](https://tailwindcss.com) 🎨
 
 
-### View a live @portfolio-adityasxn.me 🔥
+### View live @portfolio-adityasxn.me 🔥
 
 # Upcoming Changes
 Currently nothing on list 🥹
