@@ -7,7 +7,6 @@
 - Styled using [Tailwind CSS](https://tailwindcss.com) 🎨
 
 
-### View live @portfolio-adityasxn.me 🔥
 
 ### Preview
 <img width="947" alt="image" src="https://github.com/Aditya20101/Aditya20101.github.io/assets/75621797/ec9406d4-d5d9-476c-93e2-cd5feb089c0e">
