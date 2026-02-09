@@ -12,8 +12,7 @@ export const Footer = () => {
       <p className={'font-light'}>adityas20101@iiitnr.edu.in</p>
       <p className={'font-light'}>+91-7024445718</p> */}
       <p className={'text-2xl mt-4'}>Aditya Saxena</p>
-      <p className={''}>adityas20101@iiitnr.edu.in</p>
-      <p className={''}>+91-7024445718</p>
+      <p className={''}>adityasaxena1443@gmail.com</p>
       <SocialHandles className={'mt-12'}/>
     </div>
 

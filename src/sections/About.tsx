@@ -2,18 +2,12 @@ export const About = () => {
   return (
     <section id="about" className="bg-zinc-950 p-6 md:p-32">
       <div className="flex flex flex-col md:flex-row md:gap-12 items-center">
-        <div className="md:w-1/3 flex flex-col items-center gap-12">
-          <img src="assets/me.png" className="w-64 rounded-full" alt="" />
-          <p className="text-2xl invisible md:visible font-semibild">
-            Aditya Saxena
-          </p>
-        </div>
         <div className="md:w-2/3 flex flex-col gap-6 md:p-12">
           <p className="text-4xl font-bold text-center md:text-left">
             About Me
           </p>
           <p className="text-gray-400 text-center md:text-left">
-            Hello, I'm Aditya, a passionate Machine Learning enthusiast currently pursuing Bachelor of Technology in Electronics
+            Hello, I'm Aditya, a software engineer with experience in Python, C#, C/C++. I have completed my Bachelor of Technology in Electronics
             and Communication Engineering at IIIT Naya Raipur. Along with my
             expertise in Electronics and Communication which are my core fields of study, I am also interested in Machine Learning, Deep learning, Web development, Robotics, Internet of Things, and many more.
           </p>

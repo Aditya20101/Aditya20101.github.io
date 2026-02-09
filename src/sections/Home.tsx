@@ -19,14 +19,14 @@ export const Home = () => {
               <p className='text-3xl md:text-6xl font-bold'>
                 Aditya Saxena
               </p>
-              <p className='text-xl font-semibold'>I am Machine learning enthusiast</p>
+              {/* <p className='text-xl font-semibold'>I am Software Enginner</p> */}
               <p className='text-sm text-gray-400 font-light'>
                 
                 
               </p>
             </div>
             <div className='flex flex-col md:flex-row gap-4'>
-              <a href='https://drive.google.com/file/d/1urTLXDgQmlBSZrJpF7xQuw-2WqrF6dbI/view?usp=sharing' target='_blank' rel='noreferrer'>
+              <a href='https://drive.google.com/file/d/1oFAJ1q741Qa3A5bIurwcoZKM-nL9-aQq/view?usp=sharing' target='_blank' rel='noreferrer'>
                 <button className='border border-amber-500 text-amber-500 px-4 py-2'>Resume</button>
               </a>
               <a href='https://github.com/Aditya20101/' target='_blank' rel='noreferrer'>

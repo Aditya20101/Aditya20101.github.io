@@ -8,11 +8,11 @@ export const SocialHandles = ({ className }: HandlesProps) => {
   return (
     <ul className={` ${className ? className : ''} flex flex-row gap-4 `}>
 
-      <MyLink
+      {/* <MyLink
         type={'instagram'}
         href={'https://www.instagram.com/aditya_21___/'}
         size={32}
-      />
+      /> */}
      
       <MyLink
         type={'linkedin'}

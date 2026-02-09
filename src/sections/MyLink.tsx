@@ -14,11 +14,7 @@ interface Props {
   className?: string;
   type:
     | 'github'
-    | 'instagram'
     | 'linkedin'
-    | 'twitter'
-    | 'medium'
-    | 'text'
     | 'none';
   href: string;
   children?: string;
@@ -41,13 +37,6 @@ export const MyLink = ({ className, type, href, children, size }: Props) => {
   };
 
   switch (type) {
-    case 'instagram':
-      return (
-        <Anchor>
-          {' '}
-          {children} <FaInstagram size={size}/>{' '}
-        </Anchor>
-      );
     case 'linkedin':
       return (
         <Anchor>
@@ -60,27 +49,6 @@ export const MyLink = ({ className, type, href, children, size }: Props) => {
         <Anchor>
           {' '}
           {children} <FaGithub size={size}/>{' '}
-        </Anchor>
-      );
-    case 'text':
-      return (
-        <Anchor>
-          {' '}
-          {children} <FaLink size={size}/>{' '}
-        </Anchor>
-      );
-    case 'twitter':
-      return (
-        <Anchor>
-          {' '}
-          {children} <FaTwitter size={size}/>{' '}
-        </Anchor>
-      );
-    case 'medium':
-      return (
-        <Anchor>
-          {' '}
-          {children} <BsMedium size={size}/>{' '}
         </Anchor>
       );
     case 'none':

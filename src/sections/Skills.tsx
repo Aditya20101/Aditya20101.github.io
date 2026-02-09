@@ -25,7 +25,7 @@ export const Skills = () => {
             <FaReact size={48} className={`text-zinc-900`} />
             <p className={`font-semibold mt-8`}>Frontend Development</p>
             <p className={`mt-4  font-light text-sm `}>
-            JavaScript, HTML, CSS, TailwindCSS, ReactJS, NodeJS
+            HTML, CSS, Javascript, TailwindCSS, ReactJS, NodeJS
             </p>
           </div>
         </SkillCard>
@@ -35,7 +35,7 @@ export const Skills = () => {
             <FiCpu size={48} className={`text-zinc-900`} />
             <p className={`font-semibold mt-8`}>Electronics and Communication</p>
             <p className={`mt-4  font-light text-sm `}>
-            Matlab, Verilog, CST, HFSS, Cadence Virtuoso, Hspice
+            Matlab, Verilog, LabVIEW, TestStand, CST, HFSS, Cadence Virtuoso
             </p>
           </div>
         </SkillCard>
@@ -45,7 +45,7 @@ export const Skills = () => {
             <BiServer size={48} className={`text-zinc-900`} />
             <p className={`font-semibold mt-8`}>Languages</p>
             <p className={`mt-4  font-light text-sm `}>
-            Python, C/C++, JavaScript, SQL, Matlab, Verilog
+            Python, C#, C/C++, SQL
             </p>
           </div>
         </SkillCard>
